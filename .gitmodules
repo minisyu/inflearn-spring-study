@@ -1,0 +1,4 @@
+[submodule "submodule-test-private-repo"]
+	path = submodule-test-private-repo
+	url = https://github.com/minisyu/submodule-test-private-repo.git
+    branch = main
